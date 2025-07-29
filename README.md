@@ -2,8 +2,12 @@
 ✨ Creating bugs since 2018<br>📚 I'm currently learning Springboot AI<br>🎯 Goals: <br>🎲 Fun fact: 
 
 
-## 🌐 Socials:
+
+
+## 🌐 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pasan-piyumantha-13128b216) 
+
+
 
 # 💻 Tech Stack:
 
